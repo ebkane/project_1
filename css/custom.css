@@ -4,6 +4,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p, .p {
 color: #eee;
 }
 
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+  color: #eee;
+}
+
 .jumbotron {
   background-color: #ff5000;
   color: white;
@@ -28,16 +32,4 @@ body {
   margin-right: 10%;
   margin-bottom: 5%;
   border-bottom: none;
-}
-
-a:link {
-  color: #000;
-}
-
-a:visited {
-  color: #FF5000
-}
-
-a:hover {
-  color: #FF1000
 }
