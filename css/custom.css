@@ -41,3 +41,15 @@ body {
     margin-right: 10%;
     position: relative;
 }
+
+a.hover {
+    color: #ff5000;
+}
+
+a.visited {
+    color: #ff5000;
+}
+
+a.link {
+    color: #ff6600;
+}
