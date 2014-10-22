@@ -22,3 +22,9 @@ body {
   background-color: #222;
   font-family: Oswald, "Courier New", serif;
 }
+
+.page-header {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 5%;
+}
