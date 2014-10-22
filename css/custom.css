@@ -6,6 +6,7 @@ color: #eee;
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
   color: #eee;
+  font-size: 36px;
 }
 
 .jumbotron {
@@ -34,3 +35,8 @@ body {
   border-bottom: none;
 }
 
+.carousel {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
