@@ -12,5 +12,8 @@ color: black;
 .nav {
   background-color: #111;
   color: white;
+  padding-right: 5%;
+  padding-left: 5%;
+  border-bottom: none;
 }
 
