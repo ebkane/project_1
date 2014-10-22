@@ -5,6 +5,12 @@ color: black;
 }
 
 .jumbotron {
-  background-color: black;
+  background-color: #fff;
   color: white;
 }
+
+.nav .nav-tabs {
+  background-color: #eee;
+  color: white;
+}
+
