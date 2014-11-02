@@ -53,3 +53,8 @@ a.visited {
 a.link {
     color: #ff6600;
 }
+
+.item, .item active, item, item active {
+    margin-left: auto;
+    margin-right: auto;
+}
