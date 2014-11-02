@@ -14,13 +14,17 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small
   color: #eee;
 }
 
-.navbar, .nav {
+.navbar, .nav, .navbar-right, .navbar-nav, .navbar-fixed-top, .nav .navbar-nav .navbar-right, .nav navbar-nav navbar-right, navbar, nav, navbar-right, navbar-nav, navbar-fixed-top, nav navbar-nav navbar-right {
   background-color: #ff5000;
   color: white;
   padding-right: 5px;
   padding-left: 5px;
   border-bottom: none;
   border-top: none;
+}
+
+p {
+    color: white;
 }
 
 body {
